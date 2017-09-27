@@ -1,1 +1,2 @@
 Git is great system.
+It can help us to do it.
