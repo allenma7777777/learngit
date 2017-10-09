@@ -1,3 +1,25 @@
-Git is great system.
-It can help us to do it.
-I love it.
+cd
+mkdir
+pwd 
+git init
+git add file
+git commit -m "****"
+git log 
+git log --pretty=oneline
+git reset --hard HEAD^
+cat file
+git reflog
+git diff file
+git reset --hard commit id
+git diff HEAD -- readme.txt
+git checkout -- file
+git reset HEAD file
+rm file
+git rm file
+git commmit -m "**"
+git checkout -- fie
+ssh-keygen -t rsa -C "youremail@example.com"
+git remote add origin git@github.com:allenma77777777/learngit.git
+git push -u origin master
+git push origin master
+git clone git@github.com:allenma77777777/gitskills.git
