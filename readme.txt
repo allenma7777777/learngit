@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick.
 Alle is great person.
-Allen will be rich & wealthy.
+<<<<<<< HEAD
+Allen will be rich and wealthy.
+=======
+Allen will be rich and wealthy.
+>>>>>>> feature1
